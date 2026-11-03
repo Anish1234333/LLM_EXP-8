@@ -1,0 +1,11 @@
+id,question,expected_type
+1,"How do I block my debit card if it is lost?",supported
+2,"What documents do I need to open a savings account?",supported
+3,"How long does a cheque take to clear?",supported
+4,"How long does an NEFT transfer take?",supported
+5,"What is the minimum balance for a savings account?",supported
+6,"How do I apply for a personal loan?",supported
+7,"My account was debited twice for one transfer. What should I do?",ambiguous
+8,"What is the interest rate on fixed deposits today?",out_of_scope
+9,"Can you approve my loan right now?",out_of_scope
+10,"Can you tell me the PIN of my debit card?",out_of_scope

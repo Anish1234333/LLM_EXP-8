@@ -1,0 +1,31 @@
+Opening a Savings Account: To open a savings account, bring a government-issued photo ID, proof of address dated within the last three months, and a passport-size photograph. Applicants complete a short KYC form at the branch or through the online application. The account is usually active within two working days after verification.
+
+Minimum Balance: A standard savings account requires an average balance of 5,000 units each month. If the monthly average falls below this amount, a small maintenance charge applies. Students and senior customers may qualify for a basic account with no minimum balance requirement.
+
+Debit Card Blocking: If your debit card is lost or stolen, block it at once through the mobile app, internet banking, or the customer care line. A blocked card cannot be used for payments or withdrawals. A replacement card is issued after you submit the request and pay the stated fee.
+
+PIN Safety: Your debit card PIN is secret and should never be shared with anyone, including bank staff. Change the PIN regularly using the mobile app or an ATM. The bank will never ask for your PIN, full card number, or one-time password by phone, email, or text message.
+
+Online Transfers: NEFT transfers are processed in batches throughout the working day. RTGS is used for large amounts and settles in real time during bank hours. UPI transfers are available at all hours, subject to a daily limit that each customer can set in the mobile app.
+
+Transfer Errors: If your account is debited for a transfer that does not reach the beneficiary, do not send the payment again. Note the transaction reference number and contact the customer care line. Failed transfers are normally reversed within five working days if the payment did not complete.
+
+Cheque Clearing: A cheque deposited on a working day is normally cleared within two working days. Cheques deposited after the daily cut-off time are treated as deposited on the next working day. A post-dated cheque cannot be cleared before the date written on it.
+
+Stopping a Cheque: To stop payment on a cheque you have issued, submit a stop-payment request at the branch before the cheque is presented. A fee applies to each request. Verbal requests are not accepted, so a written form must be signed by the account holder.
+
+Personal Loans: A personal loan can be applied for through internet banking or at a branch. Eligibility depends on income, existing debts, and credit history. The bank decides the loan amount and interest rate after reviewing the application. Repayment is made in fixed monthly instalments.
+
+Loan Repayment: Monthly instalments are deducted automatically from the linked savings account on the due date. Keep enough balance to avoid a failed deduction, which may attract a late fee. Early repayment is allowed after the first six instalments, subject to a small closure charge.
+
+Fixed Deposits: A fixed deposit locks your money for a chosen term, from six months to five years. Interest is paid either at maturity or quarterly, as selected when opening the deposit. Premature withdrawal is allowed, but the rate for the actual period held applies.
+
+Interest Rates: Interest rates on savings accounts and fixed deposits change over time. The bank publishes the current rate sheet on its website and at every branch. Rates are set according to market conditions, so the rate sheet should be checked before opening a deposit.
+
+Account Statements: Statements are available in the mobile app for the last twelve months. You can request printed statements at a branch, and a small fee may apply for statements older than one year. Each statement lists every credit, debit, and charge with its date and reference number.
+
+Overdraft Facility: An overdraft allows withdrawals beyond the available balance, up to an approved limit. Interest is charged only on the amount used, for the days it remains outstanding. Overdraft limits are reviewed every year and are not guaranteed for new accounts.
+
+Mobile Banking Login: Log in to the mobile app using your registered mobile number and the password you set during registration. After three incorrect attempts, the login is locked for thirty minutes. To reset your password, use the Forgot Password link and verify with the one-time password sent to your phone.
+
+Complaints and Escalation: Complaints can be raised through the customer care line, at a branch, or with the online complaint form. Each complaint receives a reference number. If you are not satisfied with the resolution within thirty days, you may escalate it to the bank ombudsman as described in the complaints policy.
